@@ -1,4 +1,4 @@
-# Beginners friendly contributions for Hacktoberfest 2018
+# Beginners friendly contributions for Hacktoberfest 2020
 > This repository is a platform for open source enthusiasts to start with their open source contribution. You can find a tutorial [here](https://guides.github.com/activities/hello-world/):page_with_curl:
 
 ## Begin your contributions here.
